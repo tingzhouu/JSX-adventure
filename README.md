@@ -1,4 +1,4 @@
-#JSX and React
+# JSX and React
 This repository serves to document my learning of JSX and React. This is a very simple application to render a form with submit button.
 
 ## What I Have Used
